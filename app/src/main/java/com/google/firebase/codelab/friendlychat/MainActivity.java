@@ -82,7 +82,7 @@ import java.util.Map;
 import javax.xml.datatype.Duration;
 
 import de.hdodenhof.circleimageview.CircleImageView;
-
+//testing
 public class MainActivity extends AppCompatActivity
         implements GoogleApiClient.OnConnectionFailedListener {
 
