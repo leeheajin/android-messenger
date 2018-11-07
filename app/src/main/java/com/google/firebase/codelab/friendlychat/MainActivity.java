@@ -82,7 +82,7 @@ import java.util.Map;
 import javax.xml.datatype.Duration;
 
 import de.hdodenhof.circleimageview.CircleImageView;
-//testing
+
 public class MainActivity extends AppCompatActivity
         implements GoogleApiClient.OnConnectionFailedListener {
 
@@ -91,7 +91,7 @@ public class MainActivity extends AppCompatActivity
         ImageView messageImageView;
         TextView messengerTextView;
         CircleImageView messengerImageView;
-
+        //testing
         public MessageViewHolder(View v) {
             super(v);
             messageTextView = (TextView) itemView.findViewById(R.id.messageTextView);
